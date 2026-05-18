@@ -21,6 +21,4 @@ int main()
     {
         printf("special symbol");
     }
-    
-    
 }
